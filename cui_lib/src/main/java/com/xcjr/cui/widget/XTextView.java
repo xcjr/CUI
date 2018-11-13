@@ -3,7 +3,7 @@ package com.xcjr.cui.widget;
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.xcsqjr.lib.util.FontsLoaderUtil;
+import com.xcjr.cui.util.FontsLoaderUtil;
 
 
 /**
@@ -12,6 +12,7 @@ import com.xcsqjr.lib.util.FontsLoaderUtil;
  * version: 1.0.0
  */
 public class XTextView extends android.support.v7.widget.AppCompatTextView {
+
     public XTextView(Context context) {
         super(context);
         setupFont();
