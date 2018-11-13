@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DialogSpots">
+        <attr name="DialogTitleAppearance" format="reference" />
+        <attr name="DialogTitleText" format="reference|string" />
+        <attr name="DialogSpotColor" format="reference|color" />
+        <attr name="DialogSpotCount" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomRecordBar">
+        <attr name="btn_background_color" format="reference|integer" />
+        <attr name="micro_btn_visible" format="boolean" />
+        <attr name="record_btn_visible" format="boolean" />
+        <attr name="submit_btn_visible" format="boolean" />
+        <attr name="call_button_visible" format="boolean" />
+        <attr name="record_btn" format="string" />
+        <attr name="record_btn_color" format="color" />
+        <attr name="record_btn_drawable" format="reference|integer" />
+        <attr name="submit_btn_text" format="string" />
+        <attr name="submit_btn_text_color" format="color" />
+        <attr name="submit_btn_drawable" format="reference|integer" />
+        <attr name="call_btn_text" format="string" />
+        <attr name="call_btn_text_color" format="color" />
+        <attr name="call_btn_drawable" format="reference|integer" />
+        <attr name="micro_btn_text" format="string" />
+        <attr name="micro_btn_text_color" format="color" />
+        <attr name="micro_btn_drawable" format="reference|integer" />
+    </declare-styleable>
+
+
+    <string-array name="GetImgType">
+        <item>本机相册</item>
+        <item>照相机</item>
+    </string-array>
+
+</resources>

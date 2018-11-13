@@ -1,1 +1,1 @@
-include ':app', ':cui'
+include ':app', ':cui', ':cui_lib'
