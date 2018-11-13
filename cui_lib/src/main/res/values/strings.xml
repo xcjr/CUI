@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">cui</string>
+
+    <string name="clean">清除</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="msg">提示</string>
+    <string name="content_default">在这里说出想要说的话哦，在代码中动态控制</string>
+    <string name="title">标题</string>
+    <string name="net_error">亲，网络不给力</string>
+    <string name="click_retry">点击重试</string>
+    <string name="click_refresh">没有记录，点击刷新</string>
+    <string name="loading">努力加载中……</string>
+
 </resources>

@@ -16,7 +16,7 @@
 
             <!-- 标题 -->
 
-            <com.xcsqjr.lib.view.XTextView
+            <TextView
                 android:id="@+id/titleTv"
                 style="@style/MuDialog_title"
                 android:layout_width="match_parent"
@@ -36,7 +36,7 @@
                     android:layout_height="match_parent"
                     android:orientation="vertical">
 
-                    <com.xcsqjr.lib.view.XTextView
+                    <TextView
                         android:id="@+id/contentTv"
                         style="@style/MuDialog_content"
                         android:layout_width="match_parent"
@@ -61,8 +61,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:orientation="horizontal"
-               >
+                android:orientation="horizontal">
 
                 <Button
                     android:id="@+id/cancelBtn"

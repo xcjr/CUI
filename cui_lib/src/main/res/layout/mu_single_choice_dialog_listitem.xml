@@ -5,7 +5,7 @@
     android:layout_height="wrap_content"
     android:orientation="vertical" >
 
-    <com.xcsqjr.lib.view.XTextView
+    <TextView
         android:id="@+id/itemDataTv"
         style="@style/MuDialog_listItem_text"
         android:layout_width="match_parent"

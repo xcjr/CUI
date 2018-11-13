@@ -16,7 +16,7 @@
         android:contentDescription="@null"
         android:src="@anim/loading_more_anim" />
 
-    <com.xcsqjr.lib.view.XTextView
+    <TextView
         android:id="@+id/loadMoreHintTv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

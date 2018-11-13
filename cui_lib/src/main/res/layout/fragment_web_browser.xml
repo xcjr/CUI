@@ -61,5 +61,4 @@
                 android:src="@anim/loading_browser_rotate_anim" />
         </LinearLayout>
     </LinearLayout>
-
 </RelativeLayout>

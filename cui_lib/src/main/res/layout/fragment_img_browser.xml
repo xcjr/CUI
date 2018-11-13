@@ -25,7 +25,7 @@
             android:src="@drawable/ab_back_btn_selector"
             android:visibility="visible" />
 
-        <com.xcsqjr.lib.view.XTextView
+        <TextView
             android:id="@+id/tv_title"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
@@ -35,7 +35,4 @@
             android:textColor="@color/white"
             android:textSize="16sp" />
     </RelativeLayout>
-
-
-
 </RelativeLayout>

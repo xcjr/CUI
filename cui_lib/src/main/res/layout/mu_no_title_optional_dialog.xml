@@ -14,7 +14,6 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-
             <!-- 内容 -->
 
             <ScrollView
@@ -30,7 +29,7 @@
                     android:layout_marginTop="@dimen/dimen_10"
                     android:orientation="vertical">
 
-                    <com.xcsqjr.lib.view.XTextView
+                    <TextView
                         android:id="@+id/contentTv"
                         style="@style/MuDialog_content"
                         android:layout_width="match_parent"
@@ -48,7 +47,6 @@
             </ScrollView>
 
             <!-- 按钮 -->
-
 
             <View style="@style/line_h" />
 

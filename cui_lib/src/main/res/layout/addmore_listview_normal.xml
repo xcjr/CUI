@@ -14,7 +14,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-            <com.xcsqjr.lib.view.AddMoreListView
+            <com.xcjr.cui.widget.AddMoreListView
                 android:id="@+id/list_addmore"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
